@@ -1,7 +1,7 @@
 # My First Demoscene Toy
 ![Toy](https://i.imgur.com/wKxflNA.png)
 
-Sharing here first coding project that wasn't just a Bukkitplugin or console tool. 
+Sharing here first coding project that wasn't just a Bukkitplugin or console tool or website. 
 This thing was born at Revision 2024 with Processing (https://processing.org/) at 6am on the Sunday out of boredom cause everyone was asleep and took me about 35-45min. 
 Originally, I had plans to collaborate on a PS3 demo with a friend for the Wildcompo but stuff happend.
 Coding for Cell isn't a walk in the park. And a lot of Work was left to do, so I did not even bother. 

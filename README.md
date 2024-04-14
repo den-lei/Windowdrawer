@@ -23,7 +23,7 @@ Hoping to see you at the next Revision-Party
 9t9
 
 Frequently asked question:
-Why did you not submit this to the PM / ORGA ?
-A: Java and after deadline. 
-It resembled more of an on-site launch rather than a release through the party. 
-I'm uncertain if it qualifies as a Revision 2024 release, given that it got made at the party but wasn't officially released through it.
+Why did you not submit this to the PM / ORGA ?  
+A: Java and after deadline.   
+It resembled more of an on-site launch rather than a release through the party.   
+I'm uncertain if it qualifies as a Revision 2024 release, given that it got made at the party but wasn't officially released through it.  

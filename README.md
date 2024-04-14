@@ -21,3 +21,7 @@ https://www.pouet.net/prod.php?which=96681
 Hoping to see you at the next Revision-Party
 
 9t9
+
+Frequently asked question:
+Why did you not submit this to the PM / ORGA ?
+A: Java and after deadline.

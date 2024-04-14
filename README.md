@@ -26,4 +26,4 @@ Frequently asked question:
 Why did you not submit this to the PM / ORGA ?  
 A: Java and after deadline.   
 It resembled more of an on-site launch rather than a release through the party.   
-I'm uncertain if it qualifies as a Revision 2024 release, given that it got made at the party but wasn't officially released through it.  
+I'm uncertain if it qualifies as a "Revision 2024 release", given that it got made at the party but wasn't officially released through it.  

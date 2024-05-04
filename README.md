@@ -1,4 +1,4 @@
-# My first Contribution to the Demoscene
+# My first "real" Contribution to the Demoscene
 ![Toy](https://i.imgur.com/wKxflNA.png)
 
 Sharing here first coding project that wasn't just a Bukkitplugin, console tool or webpage.  
